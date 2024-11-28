@@ -2,7 +2,7 @@ criaCartao(
     'Programação',
     'O que é Python?',
     'O Python é uma linguagem de programação'
-)
+) 
 
 criaCartao(
     'Geografia',
@@ -17,7 +17,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    'O que é free fire',
+    'O e um jogo de tiro, que tem q sobreviver'
+)
+
+criaCartao(
+    'Programação',
+    'os mapas',
+    'bermuda, pugatorio'
+)
+
+criaCartao(
+    'Programação',
+    'tipo de armas?',
+    'mp40, wm, carapina'
 )
